@@ -21,3 +21,9 @@ National Taiwan University Life Science Poster Competition 2025, Affiliation and
 <sup>16</sup> Graduate Institute of Medical Genomics and Proteomics, College of Medicine, National Taiwan University, Taipei, Taiwan  
 <sup>17</sup> Department of Entomology, National Taiwan University, Taipei, Taiwan  
  
+# References
+[1] O. D. Ines, C. I. White (2015) Centromere Associations in Meiotic Chromosome Pairing. *Annual Review of Genetics*. Volume 49  
+[2] S. N. Ruckman, M. M. Jonika, C. Casola, H. Blackmon (2020) Chromosome number evolves at equal rates in holocentric and monocentric clades. *PLOS Genetics* 16(10): e1009076. https://doi.org/10.1371/journal.pgen.1009076  
+[3] Y. Tian, D. K. Simanshu, J. Ma,& D. J. Patel (2011) Structural basis for piRNA 2'-O-methylated 3'-end recognition by Piwi PAZ (Piwi/Argonaute/Zwille) domains, *Proc. Natl. Acad. Sci. U.S.A*. 108 (3) 903-910, https://doi.org/10.1073/pnas.1017762108  
+[4] R. L. Kolnicki, Kinetochore reproduction in animal evolution: cell biological explanation of karyotypic fission theory. *Proc. Natl. Acad. Sci. U.S.A* 97, 9493-9497 (2000)  
+[5] X. Peng, J.-J. Zhou, H.-D. Gao, J.-Q. Yang (2024) A new species of Opsariichthys (Teleostei, Cypriniformes, Xenocyprididae) from Southeast China. *ZooKeys* 1214.  
